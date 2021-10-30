@@ -1,0 +1,1 @@
+This directory contained all the setup files to compile with cx_Freeze all the modules.
